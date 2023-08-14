@@ -1,1 +1,2 @@
 print('train')
+print('test')

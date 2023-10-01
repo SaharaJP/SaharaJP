@@ -6,5 +6,3 @@ for i in 1,2,3,4,5,6,7,8:
     while j > 0:
         j = j / 2
 e = time.time()
-
-print(e-s)

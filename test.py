@@ -9,3 +9,4 @@ e = time.time()
 
 print(e)
 print(s)
+print(e-s)
